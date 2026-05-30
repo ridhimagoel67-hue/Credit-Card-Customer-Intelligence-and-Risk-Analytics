@@ -1,0 +1,36 @@
+REVENUE
+Which customer segment drives maximum revenue?
+Which categories contribute most revenue?
+Which cities have highest transaction volume?
+
+CUSTOMER 
+Who are elite customers?
+Which customers are inactive?
+Which customers are likely to churn?
+Which customer segments are most profitable?
+
+BEHAVIOR 
+Peak transaction hours?
+Weekend vs weekday spending?
+Seasonal behavior?
+Which categories are most popular?
+
+RISK
+Which customers delay repayments?
+Which transactions appear suspicious?
+Which customers show risky behavior?
+
+STRATEGIC
+Which customers deserve premium offers?
+Which categories should receive cashback campaigns?
+Which users should receive retention offers?
+
+ENGAGEMENT
+Which customers are losing engagement?
+Which users transact most frequently?
+Which customers are highly loyal?
+
+FINANCIAL
+Which customers overutilize credit?
+Which users maintain healthy repayment behavior?
+Which segments appear financially stressed?
